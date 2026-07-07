@@ -7,4 +7,4 @@
 
 ## Resume
 
-![Jnanaprasad G R Resume](<JNANA_PRASAD_G_R_Resume%20(1)_page-0001.jpg>)
+- Download resume PDF: [JNANA_PRASAD_G_R_Resume (1).pdf](<JNANA_PRASAD_G_R_Resume%20(1).pdf>)
