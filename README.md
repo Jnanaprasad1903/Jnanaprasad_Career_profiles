@@ -1,4 +1,4 @@
-# Jnanaprasad_Career_profiles
+﻿# Jnanaprasad_Career_profiles
 
 ## Profiles
 
@@ -7,4 +7,5 @@
 
 ## Resume
 
-- Download resume PDF: [JNANA_PRASAD_G_R_Resume (1).pdf](<JNANA_PRASAD_G_R_Resume%20(1).pdf>)
+- Download resume PDF: [JNANA_PRASAD_G_R_Final_resume.pdf](<JNANA_PRASAD_G_R_Final_resume.pdf>)
+- Editable resume source: [RESUME.md](<RESUME.md>)
